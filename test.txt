@@ -1,0 +1,10 @@
+0
+flavour tekst
+pilt
+A;geneetik;aeg;-1;parim;1
+B;andmeanalüütik;raha;-2;hea;1
+1
+flavour tekst
+pilt
+A;uuri proove;na;0;parim;1
+B;analüüsi liikumist;na;0;hea;1
