@@ -34,8 +34,7 @@ pilt7
 A;mRNA-vaktsiin – vaktsiinikandidaati saab geneetilise teabe põhjal kiiresti kavandada, kuid laboril on selle tehnoloogiaga vähe kogemusi.;raha;-3;tarkus;+1;aeg;+1;8
 B;Valgupõhine vaktsiin – meeskond tunneb seda tehnoloogiat hästi, kuid vaktsiinikandidaadi valmistamine võib võtta rohkem aega.;raha;-2;aeg;-1;8
 8
-Teadlased on leidnud kaks võimalikku antigeeni. Antigeen on aine või selle osa, mida immuunsüsteem suudab ära tunda.
-Millise antigeeni valid vaktsiinikandidaadi jaoks?
+Teadlased on leidnud kaks võimalikku antigeeni. Antigeen on aine või selle osa, mida immuunsüsteem suudab ära tunda. Millise antigeeni valid vaktsiinikandidaadi jaoks?
 pilt8
 A;Valk, mille immuunsüsteem tunneb kergesti ära, kuid mis erineb viirusevariantide vahel märgatavalt.;9
 B;Stabiilsem valk, mis muutub vähem, kuid on esialgsetes uuringutes tekitanud nõrgema immuunvastuse.;9
