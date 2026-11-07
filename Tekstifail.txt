@@ -1,8 +1,8 @@
 1
 Sinu uurimisrühm saab lisarahastust, kuid sellest piisab ainult ühe uue spetsialisti palkamiseks. Millise spetsialisti palkad oma meeskonda?
 pilt1
-A;Geneetik – aitab uurida haigustekitaja geneetilist materjali ja avastada selle muutusi.;raha; −1;tarkus;+1;2
-B;Andmeanalüütik – aitab analüüsida haiguse levikut ja leida nakatumisega seotud mustreid.;raha; −1;tarkus;+1;2
+A;Geneetik – aitab uurida haigustekitaja geneetilist materjali ja avastada selle muutusi.;raha;-1;tarkus;+1;2
+B;Andmeanalüütik – aitab analüüsida haiguse levikut ja leida nakatumisega seotud mustreid.;raha;-1;tarkus;+1;2
 2
 Haiglatesse saabub järjest rohkem sarnaste sümptomitega patsiente. Haiguse põhjustaja on veel teadmata. Millest uurimist alustad?
 pilt2
