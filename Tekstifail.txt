@@ -29,8 +29,7 @@ pilt6
 A;Osta kaasaegsemad seadmed, mis aitaksid edasisi uuringuid kiirendada.;raha;-3;tarkus;+1;7
 B;Palgata rohkem spetsialiste, et mitme uurimisülesandega saaks korraga tegeleda.;raha;-2;karisma;+1;7 
 7
-Teadlastel on õnnestunud määrata viiruse genoom. Nüüd saab meeskond alustada vaktsiinikandidaadi väljatöötamist. Raha jätkub aga ainult ühe tehnoloogia kasutamiseks.
-Millise vaktsiinitehnoloogia valid?
+Teadlastel on õnnestunud määrata viiruse genoom. Nüüd saab meeskond alustada vaktsiinikandidaadi väljatöötamist. Raha jätkub aga ainult ühe tehnoloogia kasutamiseks. Millise vaktsiinitehnoloogia valid?
 pilt7
 A;mRNA-vaktsiin – vaktsiinikandidaati saab geneetilise teabe põhjal kiiresti kavandada, kuid laboril on selle tehnoloogiaga vähe kogemusi.;raha;-3;tarkus;+1;aeg;+1;8
 B;Valgupõhine vaktsiin – meeskond tunneb seda tehnoloogiat hästi, kuid vaktsiinikandidaadi valmistamine võib võtta rohkem aega.;raha;-2;aeg;-1;8
