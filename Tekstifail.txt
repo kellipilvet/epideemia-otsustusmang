@@ -15,7 +15,7 @@ A;Suunata rohkem teste piirkondadesse, kus inimesi on seni vähe testitud.;raha;
 B;Jätkata haiglaravi vajavate ja raskete haigusjuhtude jälgimist.;tarkus;+1;tervis;+1;aeg;-1;4
 4
 Laboril on võimalik kasutada kahte erinevat uurimismeetodit, kuid raha jätkub ainult ühe jaoks. Millise uurimismeetodi valid?
-pil4
+pilt4
 A;Genoomi sekveneerimine – võimaldab määrata viiruse geneetilise järjestuse ja võrrelda seda juba tuntud viirustega.;raha;-2;tarkus;+2;5
 B;Viiruse valkude uurimine – aitab välja selgitada, milliseid viiruse osi võiks immuunsüsteem ära tunda.;raha;-2;tarkus;+2;5
 5
