@@ -15,3 +15,7 @@ mida edasi arendada:
 - lisada valikute juurde tekst, mis näitab, milliseid ressursse see valik võtab/annab, et mängija saaks otsuste tegemisel ressursse jälgida
 
 tehisaru osa
+
+
+# Mängu otsustuspuu
+![[otsustuspuu.png]]
