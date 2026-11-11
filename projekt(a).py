@@ -171,7 +171,7 @@ mainframe.grid(row=0, column=0)
 
 tekst, pilt, a_tekst, b_tekst = järgmise_sammu_parameetrid(küsimused, praegune_samm)
 
-ttk.Label(mainframe, text="Epideemia otsustusmäng").grid(row=0, column=0)
+#ttk.Label(mainframe, text="Epideemia otsustusmäng").grid(row=0, column=0)
 
 küsimuse_tekst = ttk.Label(mainframe, text=tekst, wraplength=700)
 küsimuse_tekst.grid(row=1, column=0)
