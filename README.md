@@ -6,7 +6,7 @@ See projekt õppeaine "Programmeerimine (LTAT.03.001)" jaoks.
 
 ## Projekti algversiooni kommentaarid
 
-Meie koostöö on läinud sujuvalt. Me tegime iganädalasi kohtumisi, et vahetada mõtteid ja arutada mängu ning programmi struktuuri üle. Kuna Anna teab rohkem viiruste uurimise ja vaktsiinide tegemise kohta, siis ta kirjutas mängu loo. Ülejäänud ülesannetega, nagu otsustuspuu visualiseerimise ja programmeerimisega, tegelesime me mõlemad. Me tegelesime projektiga umbes kolm nädalat ning iganädalaselt meil kulus sellele umbes 8 tundi kokku.
+Meie koostöö on läinud sujuvalt. Me tegime iganädalasi kohtumisi, et vahetada mõtteid ja arutada mängu ning programmi struktuuri üle. Otsustusmängu loomise idee tuli Kellilt. Kuna Anna teab rohkem viiruste uurimise ja vaktsiinide tegemise kohta, siis ta kirjutas mängu loo. Ülejäänud ülesannetega, nagu otsustuspuu visualiseerimise ja programmeerimisega, tegelesime me mõlemad. Me tegelesime projektiga umbes kolm nädalat ning iganädalaselt meil kulus sellele umbes 8 tundi kokku.
 
 
 mida edasi arendada:
