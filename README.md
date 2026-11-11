@@ -18,4 +18,5 @@ tehisaru osa
 
 
 # Mängu otsustuspuu
-![[otsustuspuu.png]]
+<img width="1821" height="202" alt="otsustuspuu" src="https://github.com/user-attachments/assets/6f230fba-7359-49f7-832e-68df947be0bb" />
+
