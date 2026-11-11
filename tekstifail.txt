@@ -1,0 +1,90 @@
+1
+Sinu uurimisrühm saab lisarahastust, kuid sellest piisab ainult ühe uue spetsialisti palkamiseks. Millise spetsialisti palkad oma meeskonda?
+pilt1
+A;Geneetik – aitab uurida haigustekitaja geneetilist materjali ja avastada selle muutusi.;raha;-1;tarkus;+1;2
+B;Andmeanalüütik – aitab analüüsida haiguse levikut ja leida nakatumisega seotud mustreid.;raha;-1;tarkus;+1;2
+2
+Haiglatesse saabub järjest rohkem sarnaste sümptomitega patsiente. Haiguse põhjustaja on veel teadmata. Millest uurimist alustad?
+pilt2
+A;Uurida patsientidelt võetud proove, et tuvastada võimalik haigustekitaja.;raha;-1;tarkus;+2;3
+B;Analüüsida haigestunute kontakte ja liikumist, et leida võimalik ühine nakkusallikas.;tarkus;+1;karisma;+1;3 
+3
+Viimase kahe päeva jooksul on kinnitatud haigusjuhtude arv vähenenud. Samal ajal on aga tehtud ka vähem teste. Kuidas tõlgendada haigusjuhtude arvu vähenemist ja mida edasi teha?
+pilt3
+A;Suunata rohkem teste piirkondadesse, kus inimesi on seni vähe testitud.;raha;-2;tarkus;+2;4
+B;Jätkata haiglaravi vajavate ja raskete haigusjuhtude jälgimist.;tarkus;+1;tervis;+1;aeg;-1;4
+4
+Laboril on võimalik kasutada kahte erinevat uurimismeetodit, kuid raha jätkub ainult ühe jaoks. Millise uurimismeetodi valid?
+pilt4
+A;Genoomi sekveneerimine – võimaldab määrata viiruse geneetilise järjestuse ja võrrelda seda juba tuntud viirustega.;raha;-2;tarkus;+2;5
+B;Viiruse valkude uurimine – aitab välja selgitada, milliseid viiruse osi võiks immuunsüsteem ära tunda.;raha;-2;tarkus;+2;5
+5
+Üks labor väidab, et viirus levib laste seas väga kiiresti. Teine labor ei ole aga sellist seost leidnud. Kuidas otsustad, millist uuringut usaldada?
+pilt5
+A;Usaldada uuringut, milles osales rohkem inimesi.;tarkus;+1;6
+B;Kontrollida, kuidas uuringud läbi viidi ja millised inimesed valimisse kuulusid.;aeg;-1;tarkus;+2;6
+6
+Laboril on alles ainult 40% esialgsest eelarvest. Kuhu investeerid allesjäänud raha?
+pilt6
+A;Osta kaasaegsemad seadmed, mis aitaksid edasisi uuringuid kiirendada.;raha;-3;tarkus;+1;7
+B;Palgata rohkem spetsialiste, et mitme uurimisülesandega saaks korraga tegeleda.;raha;-2;karisma;+1;7 
+7
+Teadlastel on õnnestunud määrata viiruse genoom. Nüüd saab meeskond alustada vaktsiinikandidaadi väljatöötamist. Raha jätkub aga ainult ühe tehnoloogia kasutamiseks. Millise vaktsiinitehnoloogia valid?
+pilt7
+A;mRNA-vaktsiin – vaktsiinikandidaati saab geneetilise teabe põhjal kiiresti kavandada, kuid laboril on selle tehnoloogiaga vähe kogemusi.;raha;-3;tarkus;+1;aeg;+1;8
+B;Valgupõhine vaktsiin – meeskond tunneb seda tehnoloogiat hästi, kuid vaktsiinikandidaadi valmistamine võib võtta rohkem aega.;raha;-2;aeg;-1;8
+8
+Teadlased on leidnud kaks võimalikku antigeeni. Antigeen on aine või selle osa, mida immuunsüsteem suudab ära tunda. Millise antigeeni valid vaktsiinikandidaadi jaoks?
+pilt8
+A;Valk, mille immuunsüsteem tunneb kergesti ära, kuid mis erineb viirusevariantide vahel märgatavalt.;9
+B;Stabiilsem valk, mis muutub vähem, kuid on esialgsetes uuringutes tekitanud nõrgema immuunvastuse.;9
+9
+Vaktsiinikandidaat tekitab prekliinilistes uuringutes immuunvastuse. Veel ei ole aga teada, kui hästi see inimesi haiguse eest kaitseks. Kuidas jätkad vaktsiinikandidaadi arendamist?
+pilt9
+A;Jätkata esimese vaktsiinikandidaadi vajalikke uuringuid ja katseid.;9a
+B;Alustada samal ajal ka teise, varuvaktsiinikandidaadi uurimist.;raha;-1;9b
+9a
+Täiendavad katsed annavad vastuolulisi tulemusi. Mõnes katses on immuunvastus tugevam, teises nõrgem. Kuidas jätkad uuringuid?
+pilt9.1
+A;Korrata katseid suurema valimiga;raha;-2;tarkus;+2;aeg;-2;10
+B;Analüüsida olemasolevaid andmeid põhjalikumalt;raha;-1;tarkus;+1;aeg;-1;10
+9b
+Kahe vaktsiinikandidaadi paralleelne uurimine osutub oodatust kallimaks. Mõlemad kandidaadid on andnud lootustandvaid esialgseid tulemusi, kuid raha ei jätku kõigi katsete jaoks. Kuidas jätkad?
+pilt9.2
+A;Keskenduda kõige paljulubavamale kandidaadile;raha;-1;tarkus;+1;aeg;+1;10 
+B;Jätkata mõlema kandidaadi uurimist väiksemas mahus;raha;-3;tarkus;+2;aeg;-2;10 
+10
+Haigestunute arv kasvab kiiresti. Valitsus palub sinu teadusrühmal aidata määrata, kuhu suunata täiendavad ressursid. Kuhu tuleks täiendavad ressursid suunata?
+pilt10
+A;Suurendada testimisvõimekust, et nakatunuid kiiremini tuvastada.;raha;-2;tarkus;+2;10a
+B;Suunata ressursid kõige haavatavamate inimeste kaitsmisele, et vähendada raskete haigusjuhtude arvu.;raha;-2;tervis;+2;10b 
+10a
+Testimisvõimekuse suurendamine on tekitanud laborites suure töökoormuse. Proovide analüüsimine võtab liiga kaua aega. Kuidas olukorda lahendada?
+pilt10.1
+A;Palgata täiendavaid laboritöötajaid;raha;-2;tarkus;+2;aeg;-1;11
+B;Seada proovide analüüsimisel prioriteedid;raha;-1;tarkus;+1;aeg;+1;11
+10b
+Riskirühmade kaitsmiseks võetud meetmed ei jõua kõigi abivajajateni. Eriti keeruline on kodust lahkuda mittesaavatel inimestel. Kuidas olukorda parandada?
+pilt10.2
+A;Suurendada koduteenuste ja kaitsevahendite kättesaadavust;raha;-2;tervis;+2;11
+B;Teha koostööd kohalike organisatsioonidega;raha;-1;tervis;+1;karisma;+1;11
+11
+Sotsiaalmeedias levib kuulujutt, et väljatöötatav vaktsiin muudab inimese DNA-d. Kuidas reageerida vaktsiini kohta levivale väärinfole?
+pilt11
+A;Avaldada teaduslik selgitus koos tõenditega, et kuulujutt ümber lükata.;tarkus;+1;karisma;+1;12 
+B;Korraldada arstide ja elanikega avalikud kohtumised, kus inimesed saavad oma küsimustele vastused.;raha;-1;karisma;+2;12
+12
+Vaktsiin on läbinud vajalikud uuringud ja saanud kasutusloa. Esimene vaktsiinipartii on saabunud, kuid doose ei jätku kõigile. Keda tuleks esmajärjekorras vaktsineerida?
+pilt12
+A;Vaktsineerida esmajärjekorras inimesi, kellel on suurim risk raskelt haigestuda.;tervis;+2;13
+B;Vaktsineerida esmajärjekorras töötajaid, kellel on suur kokkupuuteoht nakkusega.;tervis;+1;karisma;+1;13 
+13
+Uute haigusjuhtude arv langeb. Siiski pole veel teada, kas olukord on püsivalt paranenud. Mida soovitad selles olukorras teha?
+pilt13
+A;Vähendada järk-järgult erakorralisi meetmeid, et vabastada ressursse teiste tervishoiuvajaduste jaoks.;raha;+2;tervis;-1;aeg;+1;14 
+B;Jätkata intensiivset seiret, et võimalikku uut haiguslainet võimalikult vara märgata.;raha;-1;tarkus;+1;tervis;+1;14
+14
+Teadusrühmal jätkub raha veel ainult ühe projekti jaoks. Millise teadusprojekti valid?
+pilt14
+A;Uurida, kui kaua püsib vaktsineerimisjärgne kaitse.;raha;-1;tarkus;+2;LÕPP 
+B;Jätkata viiruse geneetilist seiret, et jälgida uute variantide tekkimist.;raha;-1;tarkus;+2;LÕPP
