@@ -13,8 +13,12 @@ mida edasi arendada:
 - iga sammu juurde lisada illustreeriv pilt
 - kirjutada kolmele lõpule pikemad kirjeldused
 - lisada valikute juurde tekst, mis näitab, milliseid ressursse see valik võtab/annab, et mängija saaks otsuste tegemisel ressursse jälgida
+- lisada algusesse sissejuhatav tekst ja juhend
+- luua "alusta mängu uuesti" nupp
+- kontrollida ja tasakaalustada ressursside süsteemi
 
 tehisaru osa
+Tehisintellekt oli peamiselt kasutatud tkinteri õppimiseks, kuna me mõlemad ei puutunud varem graafilise kasutajaliidese teegi kasutamisega kokku. Nii et mõnede käsude rakendamise mõistmiseks, seletamiseks ja loomiseks oli kasutatud ChatGPT. Samuti mõnede funktsioonide puhul, näiteks küsimuste vahel liikumiseks (def edasi()) ja lõpu/ressursside näitamiseks (näita_lõpu() ja näita_ressursse()), kuna sellised käsud nagu .grid_remove või .config olid meile teadmata. Aga nüüd võime need edasises töös ka kasutada.
 
 
 # Mängu otsustuspuu
