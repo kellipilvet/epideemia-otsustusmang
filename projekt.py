@@ -70,11 +70,11 @@ def määra_lõpp(ressursid):
         tulemus += ressursid[ressurss]
 
     if tulemus >= 32:
-        return "parim lõpp"
+        return "PARIM LÕPP"
     elif tulemus >= 29:
-        return "hea lõpp"
+        return "HEA LÕPP"
     else:
-        return "halb lõpp"
+        return "HALB LÕPP"
 
 
 def järgmise_sammu_parameetrid(sõnastik, järgmine_samm):
