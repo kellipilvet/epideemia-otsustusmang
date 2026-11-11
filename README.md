@@ -17,7 +17,7 @@ mida edasi arendada:
 - luua "alusta mängu uuesti" nupp
 - kontrollida ja tasakaalustada ressursside süsteemi
 
-tehisaru osa
+Tehisaru osa: 
 Tehisintellekt oli peamiselt kasutatud tkinteri õppimiseks, kuna me mõlemad ei puutunud varem graafilise kasutajaliidese teegi kasutamisega kokku. Nii et mõnede käsude rakendamise mõistmiseks, seletamiseks ja loomiseks oli kasutatud ChatGPT. Samuti mõnede funktsioonide puhul, näiteks küsimuste vahel liikumiseks (def edasi()) ja lõpu/ressursside näitamiseks (näita_lõpu() ja näita_ressursse()), kuna sellised käsud nagu .grid_remove või .config olid meile teadmata. Aga nüüd võime need edasises töös ka kasutada.
 
 
